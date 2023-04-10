@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faerroc
-- 👀 I’m interested in Electronics, Embedded Systems, Systems Architecture, Hardware, Automation,RTLS, Robotics and Systems Integration
+- 👀 I’m interested in Electronics, Embedded Systems, Systems Architecture, Hardware, Automation,RTLS, Robotics and Systems Design.
 - 🌱 I’m currently learning Zephyr
-- 💞️ I’m looking to collaborate on Embedded Linux and Kernel development
+- 💞️ I’m looking to collaborate on Zephyr,Embedded Linux and Kernel development
 - 📫 How to reach me at faerroc@gmail.com
 
 <!---
